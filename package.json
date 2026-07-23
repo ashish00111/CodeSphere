@@ -38,7 +38,7 @@
     "src/components/Editor.js",
     "src/pages/EditorPage.js",
     "src/pages/Home.js"
-  ]
+  ],
   "browserslist": {
     "production": [
       ">0.2%",
