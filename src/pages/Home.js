@@ -68,7 +68,7 @@ const Home = () => {
                         Don't have a workspace? &nbsp;
                         <a
                             onClick={createNewRoom}
-                            href=""
+                            href="#"
                             className="createNewBtn"
                         >
                             Create Workspace
